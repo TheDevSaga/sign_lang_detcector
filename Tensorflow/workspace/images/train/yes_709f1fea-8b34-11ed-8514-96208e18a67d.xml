@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>yes_709f1fea-8b34-11ed-8514-96208e18a67d.jpg</filename>
+	<path>/Users/sagar/Learning/ai/RealTimeObjectDetection/Tensorflow/workspace/images/collectedimages/yes_709f1fea-8b34-11ed-8514-96208e18a67d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>393</xmin>
+			<ymin>398</ymin>
+			<xmax>729</xmax>
+			<ymax>661</ymax>
+		</bndbox>
+	</object>
+</annotation>
